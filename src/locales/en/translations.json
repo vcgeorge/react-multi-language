@@ -1,0 +1,17 @@
+{
+  "language": "Language",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "email": {
+    "label": "Email",
+    "placeholder": "Enter Email Address"
+  },
+  "password": {
+    "label": "Password",
+    "placeholder": "Enter Password"
+  },
+  "rememberme": "Remember me",
+  "forgotpassword": "Forgot password?",
+  "no-account": "Don't have an account?",
+  "copyright": "Copyright"
+}

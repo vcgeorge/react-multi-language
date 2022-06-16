@@ -1,0 +1,17 @@
+{
+  "language": "Langue",
+  "signin": "S'identifier",
+  "signup": "S'inscrire",
+  "email": {
+    "label": "E-mail",
+    "placeholder": "Entrer l'adresse e-mail"
+  },
+  "password": {
+    "label": "Mot de passe",
+    "placeholder": "Entrer le mot de passe"
+  },
+  "rememberme": "Souviens-toi de moi",
+  "forgotpassword": "mot de passe oublié?",
+  "no-account": "Vous n'avez pas de compte ?",
+  "copyright": "Droits d'auteur"
+}
