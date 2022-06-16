@@ -9,7 +9,7 @@ import Layout from "core/Layout";
 import store from "store";
 import ErrorBoundry from 'components/ErrorBoundry/ErrorBoundry';
 import CssBaseline from '@mui/material/CssBaseline';
-import "./i18n";
+import "./config/lang/i18n";
 
 function Routes() {
   return useRoutes(routes);
